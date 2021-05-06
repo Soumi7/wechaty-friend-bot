@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbis04/wechaty-busy-bot.git"
+    "url": "git+https://github.com/Soumi7/wechaty-friend-bot.git"
   },
   "keywords": [],
   "author": "Soumi Bardhan <soumibardhan10@gmail.com>",
-  "homepage": "https://github.com/sbis04/wechaty-busy-bot",
+  "homepage": "https://github.com/Soumi7/wechaty-friend-bot",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sbis04/wechaty-busy-bot/issues"
+    "url": "https://github.com/Soumi7/wechaty-friend-bot.git/issues"
   },
   "dependencies": {
     "@chatie/tsconfig": "^0.14.1",
