@@ -1,3 +1,3 @@
-# wechaty-busy-bot
+# wechaty-friend-bot
 
 Created with CodeSandbox
